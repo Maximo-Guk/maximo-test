@@ -105,3 +105,5 @@ wrangler dev
 3. The worker will be available at a local address (usually `http://localhost:8787`). You can use this URL as your `blueprint-url` in WordPress Playground for local testing (ex: `https://playground.wordpress.net/?blueprint-url=http://localhost:8787`)
 
 Refer to the [Cloudflare Workers documentation](https://developers.cloudflare.com/workers/) for more details.
+
+Hello world
